@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `Everyday Rust`,
+    author: `Dan Bruder`,
+    description: ``,
+    siteUrl: `https://everydayrust.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `danbruder`,
     },
   },
   plugins: [
@@ -57,8 +57,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Everyday Rust`,
+        short_name: `Everyday Rust`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
