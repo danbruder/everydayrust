@@ -15,9 +15,11 @@ But there's something else I've heard (and experienced myself). It is difficult 
 
 ## Why use Rust at all?
 
-If you're here, you probably already know the value proposition of Rust. Their 2018 version slogan is "Empowering everyone to build reliable and efficient software." 
+If you're here, you probably already know the value proposition of Rust. Their 2018 version slogan is "Empowering everyone to build reliable and efficient software." One of the most compelling aspects of the language is building reliable and maintainable software. 
 
 ## Why use Rust for Web Development?
+
+
 
 ### What sort of stuff am I targeting here? 
 
