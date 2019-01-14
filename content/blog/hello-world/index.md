@@ -1,21 +1,30 @@
 ---
-title: 
-date: '2015-05-01T22:12:03.284Z'
+title: Rust for Web Development
+date: '2019-01-14T00:00:00.000Z'
 ---
 
-This is my first post on my new fake blog! How exciting!
+# Table of contents
 
-I'm sure I'll write a lot more interesting things in the future.
+1. Why use Rust at all?
+2. Why use Rust for Web Development?
+  - What sort of stuff am I targeting here? 
+  - What is the state of the art currently? What are the architectures?
+  - Project lifecycle
+  - Team size
+  - Cost of servers
+  - Cost of development time
+  - Goals: build apps as quickly and robustly as possible
+  - the Goal is to create business value and do it as effectively as possible. 
+3. What architecture are we going after and why?
+  - API server
+  - SPA frontend
+  - Set up architecture
+  - Set up generators
+  - SQL database/diesel
+  - What is the most common setup for building a business-focused app?
+  - What are the most common elements/screens that are seen in Apps?
+  - What do we build in house what do we outsource?
+  - How do we handle background jobs? 
+4. Put it to use! What are we building?
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
-
-![Chinese Salty Egg](./salty_egg.jpg)
