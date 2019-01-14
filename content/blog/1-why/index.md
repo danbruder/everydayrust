@@ -1,5 +1,5 @@
 ---
-title: Rust for Web Development: Why?
+title: Rust for Web Development
 date: '2019-01-14T00:00:00.000Z'
 ---
 
