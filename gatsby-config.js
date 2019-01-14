@@ -4,7 +4,7 @@ module.exports = {
     author: `Dan Bruder`,
     description: ``,
     siteUrl: `https://everydayrust.com`,
-    social: {
+      social: {
       twitter: `danbruder`,
     },
   },
@@ -42,6 +42,15 @@ module.exports = {
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
+          {
+            resolve: 'gatsby-remark-toc',
+            options: {
+              header: 'Table of Contents', // the custom header text
+              include: [
+                'content/**/*.md' // an include glob to match against
+              ]
+            }
+          }
         ],
       },
     },
