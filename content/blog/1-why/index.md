@@ -5,7 +5,17 @@ date: '2019-01-14T00:00:00.000Z'
 
 # Why everyday Rust?
 
+The goal of Everyday Rust is to provide examples for building everyday stuff on the web with Rust. 
+
+Rust is growing in popularity. [show some trends]
+
+Rust was voted the 'most loved' programming language among developers in 2018 in the Stack Overflow yearly survey. 
+
+But there's something else I've heard (and experienced myself). It is difficult to learn. My aim is to add resources for intermediate level web application development with Rust. 
+
 ## Why use Rust at all?
+
+
 
 ## Why use Rust for Web Development?
 
