@@ -5,8 +5,9 @@ date: '2019-01-14T00:00:00.000Z'
 
 # Table of contents
 
-1. Why use Rust at all?
-2. Why use Rust for Web Development?
+1. Why everyday Rust?
+2. Why use Rust at all?
+3. Why use Rust for Web Development?
   - What sort of stuff am I targeting here? 
   - What is the state of the art currently? What are the architectures?
   - Project lifecycle
@@ -15,7 +16,7 @@ date: '2019-01-14T00:00:00.000Z'
   - Cost of development time
   - Goals: build apps as quickly and robustly as possible
   - the Goal is to create business value and do it as effectively as possible. 
-3. What architecture are we going after and why?
+4. What architecture are we going after and why?
   - API server
   - SPA frontend
   - Set up architecture
@@ -25,6 +26,5 @@ date: '2019-01-14T00:00:00.000Z'
   - What are the most common elements/screens that are seen in Apps?
   - What do we build in house what do we outsource?
   - How do we handle background jobs? 
-4. Put it to use! What are we building?
-
-
+5. Put it to use! What are we building?
+6. What are we going 
