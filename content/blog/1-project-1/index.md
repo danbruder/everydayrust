@@ -1,5 +1,5 @@
 ---
-title: Project 1: Wellness Tracker
+title: 'Project 1: Wellness Tracker'
 date: '2019-01-24T00:00:00.000Z'
 ---
 
